@@ -1,6 +1,6 @@
 # 📊 Czech Retail Bank Analytics Project  
 
-**Tools:** Power BI, Excel, SQL, Python (optional for preprocessing)  
+**Tools:** Power BI, Excel
 
 ---
 
