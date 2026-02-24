@@ -22,8 +22,7 @@ The dataset includes:
 ## 🛠️ Tools & Technologies  
 
 - **Power BI:** Data modeling, dashboard creation, report automation, and visual analytics  
-- **Excel & SQL:** Data preprocessing, transformation, and verification  
-- **Python (optional):** Data cleaning and supporting calculations  
+- **Excel:** Data preprocessing, transformation, and verification 
 - **Data Analytics Skills:** Trend analysis, KPI monitoring, demographic segmentation, and performance reporting  
 
 ---
