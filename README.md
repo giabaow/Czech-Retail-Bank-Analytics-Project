@@ -29,7 +29,7 @@ The dataset includes:
 
 ## 🔎 Key Analyses & Insights  
 
-- Built **star-schema data models** for loans, repayments, and all transactions to structure the data for reporting  
+- Built **star-schema and snowflake data models** for loans, repayments, and all transactions to structure the data for reporting  
 - Developed **Power BI dashboards** to monitor:  
   - Regional performance against **payment-for-statement income targets**  
   - Differences in loan amounts, standing orders, and card types across **age groups**  
